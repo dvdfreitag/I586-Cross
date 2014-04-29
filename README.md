@@ -1,4 +1,4 @@
-I386-Cross
+I586-Cross
 ==========
 
-i386 Cross Compiler for Linux
+i586 Cross Compiler for Linux
