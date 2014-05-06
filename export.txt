@@ -1,0 +1,3 @@
+export PREFIX="$HOME/I586-Cross/cross"
+export TARGET=i586-elf
+export PATH="$PREFIX/bin:$PATH"
